@@ -4,6 +4,8 @@ This repository contains a reusable **Terraform / OpenTofu module** and progress
 
 It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** and is designed as a **small, composable container registry layer** that integrates cleanly with other Azure modules such as AKS, compute, RBAC, and private endpoints.
 
+Support expectations are documented in [SUPPORT.md](SUPPORT.md).
+
 ---
 
 ## 🎯 Purpose
